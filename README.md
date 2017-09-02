@@ -20,16 +20,22 @@ Client also has a command argument, which should only be [-l] or [-g].
 # Resources
 C:
 http://beej.us/guide/bgnet/
+
 http://www.linuxhowtos.org/C_C++/socket.htm
+
 CS344 - Lecture Notes & Project 4	
 https://stackoverflow.com/questions/7483301/how-do-i-print-client-address-while-running-server-code-in-socket	
+
 http://www.studytonight.com/c/program-to-list-files-in-directory.php
+
 https://stackoverflow.com/questions/5190553/linux-c-get-server-hostname
 	
 Python:
 Computer Networking: A Top-Down Approach 7th ed.
 https://stackoverflow.com/questions/7113032/overloaded-functions-in-python
+
 http://www.jython.org/docs/library/struct.html
+
 https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-using-python
 	
 	
